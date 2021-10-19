@@ -1,1 +1,1 @@
-# example-bank_be_backend
+# example-bank_be
